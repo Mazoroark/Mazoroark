@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Gonzalez</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Highschool student whos trying there best in life</h3>
 
 - 🌱 I’m currently learning **Figma,GitHub,and how to construct a website**
 
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am trying to learn how to draw**
 
-![makesweet-w56gny (1)](https://github.com/Mazoroark/Mazoroark/assets/174361875/2ee396bd-c749-4bcb-8782-d85822833c15)
+<h3 align="center">![makesweet-w56gny (1)](https://github.com/Mazoroark/Mazoroark/assets/174361875/2ee396bd-c749-4bcb-8782-d85822833c15)</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
